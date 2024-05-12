@@ -46,7 +46,7 @@ Insures your database is connected and configured with the appropriate parameter
 ### Run and test the API_Interface
 Use `node api.js` and run the application.
 ![Express.js App](images/image16.png?raw=true "API Interface")
-Confirm using a web browser or (Postman)[https://www.postman.com/downloads/] that the API is retrieving appropriate data.
+Confirm using a web browser or [Postman](https://www.postman.com/downloads/) that the API is retrieving appropriate data.
 ![Schema Version 1](images/image5.png?raw=true "connection.js")
 
 
